@@ -1,16 +1,17 @@
-## Hi there 👋
+# Morgan Anderson
 
-<!--
-**morganog/morganog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Developer**
 
-Here are some ideas to get you started:
+An aspiring indie developer passionate about building practical, creative, and impactful projects. Whether it is web development, software engineering, or data science, I enjoy diving into code and learning new languages. Check out my respositories to see what I'm currently working on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="icons/git/git-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="icons/github/github-original.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="icons/django/django-plain.svg" />
+<img align="left" alt="CSharp" width="30px" style="padding-right-10px;" src="icons/csharp/csharp-original.svg" />
+<br />
