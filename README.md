@@ -1,5 +1,5 @@
 # Morgan Anderson #
-**Aspiring Developer**
+**Independent Aspiring Developer**
 
 #
 
