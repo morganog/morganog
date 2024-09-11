@@ -10,7 +10,9 @@ An aspiring indie developer passionate about building practical, creative, and i
 ### Check Out My Projects:
 
 <a href="https://github.com/morganog/CookNook">Cook Nook Recipe App</a>
+</br>
 <a href="https://github.com/morganog/InteractivePortfolio">Interactive Portfolio - With Image Map</a>
+</br>
 <a href="https://github.com/morganog/Magic-8-Ball">Magic 8 Ball Program - With Tkinter</a>
 
 #
