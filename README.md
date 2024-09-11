@@ -12,6 +12,8 @@ An aspiring indie developer passionate about building practical, creative, and i
 - CSS
 - Django
 - JavaScript
+- SQL
+- MySql
 - Git
 - Github
 
