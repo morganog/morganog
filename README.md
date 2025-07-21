@@ -7,6 +7,12 @@ An aspiring indie developer passionate about building practical, creative, and i
 
 #
 
+### Current Project: 
+
+<a href="https://github.com/morganog/CardXP">Card Grading Android Mobile App - With React Native</a>
+
+#
+
 ### Check Out My Projects:
 
 <a href="https://github.com/morganog/CookNook">Cook Nook Recipe App - With Django</a>
