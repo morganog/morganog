@@ -35,6 +35,8 @@ An aspiring indie developer passionate about building practical, creative, and i
 - JavaScript
 - SQL
 - MySql
+- React Native
+- Expo
 - Git
 - Github
 
