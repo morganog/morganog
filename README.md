@@ -9,7 +9,7 @@ An aspiring indie developer passionate about building practical, creative, and i
 
 ### Current Project: 
 
-<a href="https://github.com/morganog/CardXP">Card Grading Android Mobile App - With React Native</a>
+<a href="https://github.com/morganog/CardXP">CardXP - Card Grading Android Mobile App - With React Native</a>
 
 #
 
